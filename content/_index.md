@@ -49,8 +49,7 @@ sections:
         - title: Ph.D. Student
           company: Northeastern University
           location: Boston
-          date_start: '2022-09'
-          date_end: 'Present'
+          date_start: '2022-09-01'
     design:
       columns: '2'
   - block: contact
