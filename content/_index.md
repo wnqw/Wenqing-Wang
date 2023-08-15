@@ -16,8 +16,8 @@ sections:
     content:
       title: Publications
       filters:
-      #   folders:
-      #     - publication
+        folders:
+          - publication
         exclude_featured: true
     design:
       columns: '2'
@@ -28,8 +28,8 @@ sections:
     content:
       title: Projects
       filters:
-      #   folders:
-      #     - project
+        folders:
+          - project
     design:
       columns: '1'
       view: compact
