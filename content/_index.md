@@ -52,7 +52,8 @@ sections:
           date_start: '2022-09-01'
     design:
       columns: '2'
-    - block: contact
+
+  - block: contact
     id: contact
     content:
       title: Contact
@@ -65,6 +66,17 @@ sections:
         postcode: '02115'
         country: United States
         country_code: US
+
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '2'
 ---
