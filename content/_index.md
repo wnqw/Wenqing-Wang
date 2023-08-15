@@ -15,9 +15,9 @@ sections:
   - block: collection
     content:
       title: Publications
-      filters:
-        folders:
-          - publication
+      # filters:
+      #   folders:
+      #     - publication
         exclude_featured: true
     design:
       columns: '2'
@@ -27,9 +27,9 @@ sections:
     id: projects
     content:
       title: Projects
-      filters:
-        folders:
-          - project
+      # filters:
+      #   folders:
+      #     - project
     design:
       columns: '1'
       view: compact
