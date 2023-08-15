@@ -15,7 +15,7 @@ sections:
   - block: collection
     content:
       title: Publications
-      # filters:
+      filters:
       #   folders:
       #     - publication
         exclude_featured: true
@@ -27,7 +27,7 @@ sections:
     id: projects
     content:
       title: Projects
-      # filters:
+      filters:
       #   folders:
       #     - project
     design:
