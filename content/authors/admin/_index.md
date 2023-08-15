@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-I an Wenqing Wang (王文青), a CS PhD student at Khoury College of Computer Sciences of Northeastern University since 2022. I am advised by Dr. Stacy Marsella at my institution. My research focus on computer vision, machine learning (reinforcement learning), natural language processing, and embodied AI.
+I am Wenqing Wang (王文青), a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University since 2022. I am advised by Dr. Stacy Marsella at my institution. My research focuses on computer vision, machine learning (reinforcement learning), natural language processing, and embodied AI.
 {style="text-align: justify;"}
 
 
