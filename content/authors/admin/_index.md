@@ -26,10 +26,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
   - Computer Vision
+  - Machine Learning
   - Natural Language Processing
-  - Embodied AI
 
 # Education to show in About widget
 education:
@@ -58,9 +57,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV.pdf
+  # - icon: cv
+  #   icon_pack: ai
+    # link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -69,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Wenqing Wang (王文青), a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University since 2022. I am advised by Dr. Stacy Marsella at my institution. My research focuses on computer vision, machine learning (reinforcement learning), natural language processing, and embodied AI.
+I am Wenqing Wang (王文青), a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University since 2022. I am advised by Dr. Yun Raymond Fu at my institution. My research focuses on computer vision, machine learning, and natural language processing.
 {style="text-align: justify;"}
 
 
