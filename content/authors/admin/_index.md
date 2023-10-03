@@ -26,7 +26,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Computer Vision (diffusion models, text-to-image/video/animation generation, NeRF/NeLF/3D novel-view synthesis, 3D object reconstruction)
+  - Computer Vision (diffusion models, text-to-image/video/animation generation, NeRF/NeLF/3D novel-view synthesis, 3D object reconstruction, object detection/recognition)
   - Machine Learning (text-to-music/audio generation, hierarchical reinforcement learning, meta-learning)
   - Natural Language Processing (LLM)
 
