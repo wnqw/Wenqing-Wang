@@ -27,7 +27,6 @@ organizations:
 # Interests to show in About widget
 interests:
   - Computer Vision 
-    - (neural radience fields, stable diffusion model)
   - Machine Learning
   - Natural Language Processing
 
