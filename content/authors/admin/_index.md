@@ -26,10 +26,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Computer Vision: A
-  - Machine Learning
-  - Natural Language Processing
- 
+  # - Computer Vision
+  # - Machine Learning
+  # - Natural Language Processing
+  - name: Asad sd
 
 # Education to show in About widget
 education:
