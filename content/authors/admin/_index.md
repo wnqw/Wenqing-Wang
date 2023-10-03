@@ -31,9 +31,7 @@ organizations:
 #   - Natural Language Processing
 
 interests:
-  - course: Ph.D. Computer Science
-    institution: Northeastern University
-    year: 2022 - Present
+  - A: asdsa sadasd
 
 # Education to show in About widget
 education:
