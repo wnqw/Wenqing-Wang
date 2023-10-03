@@ -26,7 +26,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Computer Vision
+  - Computer Vision 
+    - (neural radience fields, stable diffusion model)
   - Machine Learning
   - Natural Language Processing
 
@@ -47,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   - icon: github
     icon_pack: fab
     link: https://github.com/wnqw
@@ -59,17 +60,16 @@ social:
   # and uncomment the lines below.
   # - icon: cv
   #   icon_pack: ai
-    # link: uploads/CV.pdf
+  # link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am Wenqing Wang (王文青), a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University. I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at my institution. My research interests lie in the areas of computer vision, machine learning, and natural language processing.
+I am Wenqing Wang (王文青), a CS Ph.D. student at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) of [Northeastern University](https://www.northeastern.edu/). I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), and I am a member of [SMILE Lab](https://web.northeastern.edu/smilelab/). Previously, I received my B.S. degree in Computer Science from [The University of California, Davis](https://www.ucdavis.edu/). My research interests broadly include computer vision, machine learning, and natural language processing.
+
+ 
 {style="text-align: justify;"}
-
-
-
