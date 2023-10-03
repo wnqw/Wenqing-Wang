@@ -25,10 +25,15 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
+# interests:
+#   - Computer Vision
+#   - Machine Learning
+#   - Natural Language Processing
+
 interests:
-  - Computer Vision: CV
-  - Machine Learning
-  - Natural Language Processing
+  areas:
+  - A: A
+    B: b
 
 # Education to show in About widget
 education:
