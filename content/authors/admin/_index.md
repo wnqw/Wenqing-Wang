@@ -31,8 +31,8 @@ organizations:
 #   - Natural Language Processing
 
 interests:
-  - CV
-    name: sadas sadasd
+  - name: Northeastern University
+    url: https://www.northeastern.edu/
 
 # Education to show in About widget
 education:
