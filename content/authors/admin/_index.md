@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Wenqing Wang (王文青), a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University since 2022. I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at my institution. My research focuses on computer vision, machine learning, and natural language processing.
+I am Wenqing Wang (王文青), a CS Ph.D. student at Khoury College of Computer Sciences of Northeastern University since 2022. I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at my institution. My research interests lie in the areas of computer vision, machine learning, and natural language processing.
 {style="text-align: justify;"}
 
 
