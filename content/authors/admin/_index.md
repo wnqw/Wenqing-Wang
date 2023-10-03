@@ -26,8 +26,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Computer Vision 
-    Details: A
+  - Computer Vision: CV
   - Machine Learning
   - Natural Language Processing
 
