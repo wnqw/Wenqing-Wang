@@ -31,8 +31,8 @@ organizations:
 #   - Natural Language Processing
 
 interests:
-  areas:
-    - area: A
+  courses:
+    - course: Aasdsad sad
 
 # Education to show in About widget
 education:
