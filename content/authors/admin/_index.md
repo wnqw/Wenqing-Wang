@@ -25,14 +25,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-# interests:
-#   - Computer Vision
-#   - Machine Learning
-#   - Natural Language Processing
-
 interests:
-  - name: Northeastern University
-    url: https://www.northeastern.edu/
+  - Computer Vision: A
+  - Machine Learning
+  - Natural Language Processing
+ 
 
 # Education to show in About widget
 education:
