@@ -31,10 +31,9 @@ organizations:
 #   - Natural Language Processing
 
 interests:
-  courses:
-    - course: Ph.D. Computer Science
-      institution: Northeastern University
-      year: 2022 - Present
+  - course: Ph.D. Computer Science
+    institution: Northeastern University
+    year: 2022 - Present
 
 # Education to show in About widget
 education:
