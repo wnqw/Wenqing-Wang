@@ -22,13 +22,13 @@ organizations:
     url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Computer Vision
-  - Machine Learning
-  - Natural Language Processing
+  - Computer Vision (diffusion models, text-to-image/video generation, NeRF/NeLF/3D novel-view synthesis, 3D object reconstruction)
+  - Machine Learning (text-to-music/audio generation, hierarchical reinforcement learning)
+  - Natural Language Processing (LLM)
 
 # Education to show in About widget
 education:
