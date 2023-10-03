@@ -31,8 +31,8 @@ organizations:
 #   - Natural Language Processing
 
 interests:
-  - name: sadas sad
-    name: bsada sadasdd
+  - CV
+    name: sadas sadasd
 
 # Education to show in About widget
 education:
