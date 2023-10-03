@@ -32,8 +32,7 @@ organizations:
 
 interests:
   areas:
-  - A: A
-    B: b
+    - A: A
 
 # Education to show in About widget
 education:
