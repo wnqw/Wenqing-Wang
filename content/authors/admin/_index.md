@@ -26,9 +26,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Computer Vision (NeRF/NeLF/3D novel-view synthesis, 3D object reconstruction, detection/recognition, diffusion models, text-to-image/video generation)
-  - Machine Learning (text-to-music/audio generation, hierarchical reinforcement learning, meta-learning)
-  - Natural Language Processing (LLMs)
+  - Computer Vision (3D novel-view synthesis (NeRF, NeLF, etc.), 3D object reconstruction, diffusion models, text-to-image/video generation, detection/recognition)
+  - Machine Learning (multimodal generation, AGI, embodied AI)
+  - Natural Language Processing (LLMs, VLMs)
 
 # Education to show in About widget
 education:
@@ -68,7 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-I am Wenqing Wang (王文青), a CS Ph.D. student at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) of [Northeastern University](https://www.northeastern.edu/). I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), and I am a member of [SMILE Lab](https://web.northeastern.edu/smilelab/). Previously, I received my B.S. degree in Computer Science and B.A. degree in Psychology from the [University of California, Davis](https://www.ucdavis.edu/). My research interests broadly include computer vision, machine learning, and natural language processing.
+I am Wenqing Wang (王文青), a CS Ph.D. student at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) of [Northeastern University](https://www.northeastern.edu/). I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), and I am a member of [SMILE Lab](https://fulab.sites.northeastern.edu/). Previously, I received my B.S. degree in Computer Science and B.A. degree in Psychology from the [University of California, Davis](https://www.ucdavis.edu/). My research interests broadly include computer vision, machine learning, and natural language processing.
 
- 
 {style="text-align: justify;"}
