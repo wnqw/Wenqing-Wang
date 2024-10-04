@@ -26,9 +26,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Computer Vision (3D novel-view synthesis (NeRF, NeLF, etc.), 3D object reconstruction, diffusion models, text-to-image/video generation, detection/recognition)
-  - Machine Learning (multimodal generation, AGI, embodied AI)
-  - Natural Language Processing (LLMs, VLMs)
+  - Computer Vision (3D novel-view synthesis (NeRF, NeLF, Gaussian Splatting, etc.); VLMs, mult-modal generations, video and image generation/understanding; diffusion; AIGC)
+  - Machine Learning (AGI; autonomous driving; embodied AI)
+  - Natural Language Processing (LLMs)
 
 # Education to show in About widget
 education:
