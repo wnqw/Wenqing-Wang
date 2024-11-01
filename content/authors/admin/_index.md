@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am Wenqing Wang (王文青), a CS Ph.D. student at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) of [Northeastern University](https://www.northeastern.edu/). I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), and I am a member of [SMILE Lab](https://fulab.sites.northeastern.edu/). Previously, I received my B.S. degree in Computer Science and B.A. degree in Psychology from the [University of California, Davis](https://www.ucdavis.edu/). My research interests broadly include computer vision, machine learning, and natural language processing.
+I am Wenqing Wang (王文青), a CS Ph.D. student at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) of [Northeastern University](https://www.northeastern.edu/). I am advised by [Dr. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), and I am a member of [SMILE Lab](https://fulab.sites.northeastern.edu/). Previously, I received my B.S. degree in Computer Science and B.A. degree in Psychology from the [University of California, Davis](https://www.ucdavis.edu/). My research interests broadly include computer vision, generative AI, and artificial intelligence.
 
 {style="text-align: justify;"}
