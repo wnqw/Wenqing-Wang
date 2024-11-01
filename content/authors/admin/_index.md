@@ -52,7 +52,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/wenqing-w/
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: brands
     link: https://scholar.google.com/citations?hl=en&user=2afQDGkAAAAJ
   - icon: github
     icon_pack: fab
