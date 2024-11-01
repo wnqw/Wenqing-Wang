@@ -1,5 +1,5 @@
 ---
-title: "Audio-Driven Emotional 3D Talking-Head Generation [Under Review]"
+title: "Audio-Driven Emotional 3D Talking-Head Generation"
 date: 2024-09-30
 publishDate: 2024-09-30
 authors: ["Wenqing Wang", "Yun Fu"]
@@ -8,4 +8,6 @@ abstract: "Audio-driven talking-head generation is a crucial and useful technolo
 featured: false
 publication: "IEEE International Conference on Automatic Face and Gesture Recognition"
 tags: ["NeRF", "Digital Humans", "emotion", "Audio-driven video portraits"]
+
+url_pdf: https://arxiv.org/abs/2410.17262
 ---
