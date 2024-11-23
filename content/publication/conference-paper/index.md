@@ -12,6 +12,15 @@ tags: ["NeRF", "Digital Humans", "emotion", "Audio-driven video portraits"]
 url_pdf: https://arxiv.org/abs/2410.17262
 ---
 ---
-title: "Text-to-3D Gaussian Splatting with Physics-Grounded Motion Generation"
-date: 2024-11-21
+title: "Emotionally Expressive Avatar Animation via Neural Motion Capture"
+date: 2024-11-15
+publishDate: 2024-11-15
+authors: ["Wenqing Wang", "Yun Fu"]
+publication_types: ["1"]
+abstract: "Creating emotionally expressive avatars is a fundamental aspect of immersive virtual interactions. This work introduces a neural motion capture framework that decouples emotional expression from physical motion, allowing fine-grained control over avatar animation. Leveraging a multi-layer perception (MLP) architecture and temporal consistency constraints, the system processes input motion capture data to synthesize realistic and emotionally resonant avatar animations. Experiments demonstrate superior performance in both emotional fidelity and physical realism compared to traditional methods."
+featured: false
+publication: "ACM SIGGRAPH Conference"
+tags: ["Avatar Animation", "Motion Capture", "Emotion", "MLP"]
+
+url_pdf: https://arxiv.org/abs/2411.18254
 ---
