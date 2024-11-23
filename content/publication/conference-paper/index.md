@@ -12,7 +12,7 @@ tags: ["NeRF", "Digital Humans", "emotion", "Audio-driven video portraits"]
 url_pdf: https://arxiv.org/abs/2410.17262
 ---
 ---
-title: "Emotionally Expressive Avatar Animation via Neural Motion Capture"
+title: "Text-to-3D Gaussian Splatting with Physics-Grounded Motion Generation"
 date: 2024-11-15
 publishDate: 2024-11-15
 authors: ["Wenqing Wang", "Yun Fu"]
